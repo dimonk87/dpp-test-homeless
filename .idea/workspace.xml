@@ -2,26 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cf81fee0-702a-4fa2-b4a1-e0a32cddef58" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/chromeDriver.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/test_prepare_for_headless.js" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/debug.log" afterPath="$PROJECT_DIR$/debug.log" />
-      <change beforePath="$PROJECT_DIR$/features/login_page_test.feature" afterPath="$PROJECT_DIR$/features/login_page_test.feature" />
-      <change beforePath="$PROJECT_DIR$/features/partners_test.feature" afterPath="$PROJECT_DIR$/features/partners_test.feature" />
-      <change beforePath="$PROJECT_DIR$/features/processing_points_test.feature" afterPath="$PROJECT_DIR$/features/processing_points_test.feature" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" afterPath="$PROJECT_DIR$/package-lock.json" />
       <change beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
-      <change beforePath="$PROJECT_DIR$/page-objects/apiRequest.js" afterPath="$PROJECT_DIR$/page-objects/apiRequest.js" />
-      <change beforePath="$PROJECT_DIR$/page-objects/loginPage.js" afterPath="$PROJECT_DIR$/page-objects/loginPage.js" />
-      <change beforePath="$PROJECT_DIR$/page-objects/partnersPage.js" afterPath="$PROJECT_DIR$/page-objects/partnersPage.js" />
       <change beforePath="$PROJECT_DIR$/page-objects/processPage.js" afterPath="$PROJECT_DIR$/page-objects/processPage.js" />
-      <change beforePath="$PROJECT_DIR$/page-objects/usersPage.js" afterPath="$PROJECT_DIR$/page-objects/usersPage.js" />
-      <change beforePath="$PROJECT_DIR$/reports/cucumber-report.html" afterPath="$PROJECT_DIR$/reports/cucumber-report.html" />
-      <change beforePath="$PROJECT_DIR$/reports/cucumber-report.json" afterPath="$PROJECT_DIR$/reports/cucumber-report.json" />
-      <change beforePath="$PROJECT_DIR$/reports/junit-report.xml" afterPath="$PROJECT_DIR$/reports/junit-report.xml" />
-      <change beforePath="$PROJECT_DIR$/shared-objects/test-data.js" afterPath="$PROJECT_DIR$/shared-objects/test-data.js" />
-      <change beforePath="$PROJECT_DIR$/step-definitions/partners-tab-steps.js" afterPath="$PROJECT_DIR$/step-definitions/partners-tab-steps.js" />
-      <change beforePath="$PROJECT_DIR$/step-definitions/process-tab-steps.js" afterPath="$PROJECT_DIR$/step-definitions/process-tab-steps.js" />
-      <change beforePath="$PROJECT_DIR$/step-definitions/users-tab-steps.js" afterPath="$PROJECT_DIR$/step-definitions/users-tab-steps.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -35,31 +20,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="chromeDriver.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/node_modules/selenium-cucumber-js/runtime/chromeDriver.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="273">
-              <caret line="16" column="14" lean-forward="false" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="partnersPage.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/page-objects/partnersPage.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="164">
+            <state relative-caret-position="336">
               <caret line="16" column="77" lean-forward="false" selection-start-line="16" selection-start-column="77" selection-end-line="16" selection-end-column="77" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="partners_test.feature" pinned="false" current-in-tab="true">
+      <file leaf-file-name="partners_test.feature" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/features/partners_test.feature">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="302">
-              <caret line="23" column="28" lean-forward="true" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="28" />
+            <state relative-caret-position="147">
+              <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -68,28 +43,38 @@
       <file leaf-file-name="usersPage.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/page-objects/usersPage.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="164">
-              <caret line="16" column="76" lean-forward="true" selection-start-line="16" selection-start-column="76" selection-end-line="16" selection-end-column="76" />
+            <state relative-caret-position="336">
+              <caret line="16" column="76" lean-forward="false" selection-start-line="16" selection-start-column="76" selection-end-line="16" selection-end-column="76" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test-data.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/shared-objects/test-data.js">
+      <file leaf-file-name="test_prepare_for_headless.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test_prepare_for_headless.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="10" column="127" lean-forward="false" selection-start-line="10" selection-start-column="127" selection-end-line="10" selection-end-column="127" />
+            <state relative-caret-position="168">
+              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="processPage.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/page-objects/processPage.js">
+      <file leaf-file-name="chromeDriver.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/node_modules/selenium-cucumber-js/runtime/chromeDriver.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="138" column="86" lean-forward="false" selection-start-line="138" selection-start-column="86" selection-end-line="138" selection-end-column="86" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="147">
+              <caret line="7" column="52" lean-forward="false" selection-start-line="7" selection-start-column="52" selection-end-line="7" selection-end-column="52" />
               <folding />
             </state>
           </provider>
@@ -98,18 +83,18 @@
       <file leaf-file-name="process-tab-steps.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/step-definitions/process-tab-steps.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="244">
-              <caret line="81" column="38" lean-forward="false" selection-start-line="81" selection-start-column="38" selection-end-line="81" selection-end-column="38" />
+            <state relative-caret-position="84">
+              <caret line="4" column="17" lean-forward="false" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="apiRequest.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/page-objects/apiRequest.js">
+      <file leaf-file-name="cucumber-report.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/reports/cucumber-report.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="62" column="31" lean-forward="false" selection-start-line="62" selection-start-column="31" selection-end-line="62" selection-end-column="31" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -126,6 +111,7 @@
       <find>elect</find>
       <find>delete</find>
       <find>dir</find>
+      <find>port</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -138,29 +124,31 @@
         <option value="$PROJECT_DIR$/index.js" />
         <option value="$PROJECT_DIR$/features/User_tab_test.feature" />
         <option value="$PROJECT_DIR$/reports/cucumber-report.html" />
-        <option value="$PROJECT_DIR$/package.json" />
         <option value="D:/DPP/dpp_lan/docker-compose.yml" />
         <option value="$PROJECT_DIR$/features/user_tab_test.feature" />
-        <option value="$PROJECT_DIR$/selenium-cucumber-js.json" />
         <option value="$PROJECT_DIR$/step-definitions/login-page-steps.js" />
         <option value="$PROJECT_DIR$/node_modules/selenium-cucumber-js/package.json" />
         <option value="$PROJECT_DIR$/page-objects/serversPage.js" />
         <option value="$PROJECT_DIR$/features/communication_server_test.feature" />
         <option value="$PROJECT_DIR$/step-definitions/communication-server-steps.js" />
-        <option value="$PROJECT_DIR$/step-definitions/partners-tab-steps.js" />
         <option value="$PROJECT_DIR$/step-definitions/users-tab-steps.js" />
         <option value="$PROJECT_DIR$/page-objects/loginPage.js" />
         <option value="$PROJECT_DIR$/features/login_page_test.feature" />
         <option value="$PROJECT_DIR$/shared-objects/test-data.js" />
-        <option value="$PROJECT_DIR$/step-definitions/process-tab-steps.js" />
         <option value="$PROJECT_DIR$/page-objects/apiRequest.js" />
         <option value="$PROJECT_DIR$/features/processing_points_test.feature" />
-        <option value="$PROJECT_DIR$/page-objects/processPage.js" />
         <option value="$PROJECT_DIR$/page-objects/partnersPage.js" />
         <option value="$PROJECT_DIR$/page-objects/usersPage.js" />
-        <option value="$PROJECT_DIR$/node_modules/selenium-cucumber-js/runtime/chromeDriver.js" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/selenium-cucumber-js.json" />
+        <option value="$PROJECT_DIR$/node_modules/selenium-cucumber-js/runtime/chromeDriver.js" />
         <option value="$PROJECT_DIR$/features/partners_test.feature" />
+        <option value="$PROJECT_DIR$/chromeDriver.js" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/step-definitions/partners-tab-steps.js" />
+        <option value="$PROJECT_DIR$/page-objects/processPage.js" />
+        <option value="$PROJECT_DIR$/step-definitions/process-tab-steps.js" />
+        <option value="$PROJECT_DIR$/test_prepare_for_headless.js" />
       </list>
     </option>
   </component>
@@ -205,25 +193,57 @@
         <subPane>
           <expand>
             <path>
-              <item name="try3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="try3" type="462c0819:PsiDirectoryNode" />
+              <item name="test dpp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test dpp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test dpp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test dpp" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test dpp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test dpp" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+              <item name="selenium-cucumber-js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test dpp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test dpp" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+              <item name="selenium-cucumber-js" type="462c0819:PsiDirectoryNode" />
+              <item name="runtime" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test dpp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test dpp" type="462c0819:PsiDirectoryNode" />
+              <item name="reports" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test dpp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test dpp" type="462c0819:PsiDirectoryNode" />
+              <item name="step-definitions" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="D:/DPP/lan" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Cucumber\test dpp\node_modules\selenium-cucumber-js\runtime" />
+      <recent name="D:\Cucumber\test dpp" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Cucumber\try3" />
       <recent name="D:\Cucumber\try3\features" />
@@ -319,11 +339,15 @@
       <workItem from="1521543235079" duration="2763000" />
       <workItem from="1521617403091" duration="13959000" />
       <workItem from="1521744010115" duration="12378000" />
+      <workItem from="1521800738306" duration="804000" />
+      <workItem from="1521813645334" duration="6906000" />
+      <workItem from="1521820584664" duration="7000" />
+      <workItem from="1521820623768" duration="122000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="302346000" />
+    <option name="totallyTimeSpent" value="310185000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -336,15 +360,16 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="7" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18455844" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18333334" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296371" sideWeight="0.49802566" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24022347" sideWeight="0.25049388" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296371" sideWeight="0.49802566" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24960339" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33295324" sideWeight="0.7495061" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32596686" sideWeight="0.7495061" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -392,89 +417,18 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/step-definitions/login-page-steps.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="14" lean-forward="false" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/selenium-cucumber-js/page-objects/mammoth-workwear.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="4" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/selenium-webdriver/lib/webdriver.js" />
     <entry file="file://$PROJECT_DIR$/node_modules/selenium-webdriver/http/index.js" />
-    <entry file="file://$PROJECT_DIR$/node_modules/selenium-cucumber-js/features/google-search.feature">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/selenium-cucumber-js/features/google-search.feature" />
     <entry file="file://$PROJECT_DIR$/node_modules/local-storage/local-storage.js" />
-    <entry file="file://$PROJECT_DIR$/node_modules/chai/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1407">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/chai/lib/chai.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-751">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/reports/junit-report.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-545">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/reports/cucumber-report.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="616">
-          <caret line="28" column="35" lean-forward="false" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/chai/README.md" />
+    <entry file="file://$PROJECT_DIR$/node_modules/chai/lib/chai.js" />
+    <entry file="file://$PROJECT_DIR$/reports/junit-report.xml" />
+    <entry file="file://$PROJECT_DIR$/reports/cucumber-report.json" />
     <entry file="file://D:/DPP/dpp_lan/docker-compose.yml" />
     <entry file="file://$PROJECT_DIR$/node_modules/@types/node/index.d.ts" />
-    <entry file="file://$PROJECT_DIR$/node_modules/selenium-cucumber-js/step-definitions/buy-workwear-steps.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/selenium-cucumber-js/step-definitions/google-search-steps.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/selenium-cucumber-js/features/buy-workwear.feature">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/selenium-cucumber-js/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/selenium-cucumber-js/step-definitions/buy-workwear-steps.js" />
+    <entry file="file://$PROJECT_DIR$/node_modules/selenium-cucumber-js/step-definitions/google-search-steps.js" />
+    <entry file="file://$PROJECT_DIR$/node_modules/selenium-cucumber-js/features/buy-workwear.feature" />
     <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es2017.sharedmemory.d.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="878">
@@ -482,21 +436,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="9" lean-forward="false" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/selenium-cucumber-js/README.MD">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="567">
-          <caret line="66" column="32" lean-forward="false" selection-start-line="66" selection-start-column="17" selection-end-line="66" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/selenium-cucumber-js/README.MD" />
     <entry file="file://$PROJECT_DIR$/node_modules/selenium-cucumber-js/package-lock.json" />
     <entry file="file://$PROJECT_DIR$/page-objects/serversPage.js">
       <provider selected="true" editor-type-id="text-editor">
@@ -523,20 +463,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/selenium-webdriver/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1890">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/selenium-webdriver/index.js" />
     <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-156">
@@ -544,49 +474,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/selenium-cucumber-js/runtime/helpers.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-357">
-          <caret line="10" column="4" lean-forward="false" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/selenium-cucumber-js/runtime/world.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="628">
-          <caret line="164" column="4" lean-forward="false" selection-start-line="164" selection-start-column="4" selection-end-line="164" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/selenium-cucumber-js/runtime/phantomDriver.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/selenium-cucumber-js/runtime/electronDriver.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/selenium-cucumber-js/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2415">
-          <caret line="56" column="18" lean-forward="false" selection-start-line="56" selection-start-column="18" selection-end-line="56" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/selenium-cucumber-js.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="7" column="1" lean-forward="false" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/selenium-cucumber-js/runtime/phantomDriver.js" />
+    <entry file="file://$PROJECT_DIR$/node_modules/selenium-cucumber-js/runtime/electronDriver.js" />
+    <entry file="file://$PROJECT_DIR$/node_modules/selenium-cucumber-js/package.json" />
     <entry file="file://$PROJECT_DIR$/page-objects/loginPage.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
@@ -608,19 +498,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/unirest/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="969" column="4" lean-forward="true" selection-start-line="969" selection-start-column="4" selection-end-line="969" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/unirest/index.js" />
     <entry file="file://$PROJECT_DIR$/package-lock.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -628,7 +510,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
           <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="24" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -636,15 +517,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="10" column="127" lean-forward="false" selection-start-line="10" selection-start-column="127" selection-end-line="10" selection-end-column="127" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/page-objects/apiRequest.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
+        <state relative-caret-position="1302">
           <caret line="62" column="31" lean-forward="false" selection-start-line="62" selection-start-column="31" selection-end-line="62" selection-end-column="31" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -652,66 +531,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
           <caret line="33" column="11" lean-forward="false" selection-start-line="33" selection-start-column="11" selection-end-line="33" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/step-definitions/process-tab-steps.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="244">
-          <caret line="81" column="38" lean-forward="false" selection-start-line="81" selection-start-column="38" selection-end-line="81" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/step-definitions/partners-tab-steps.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="74" column="42" lean-forward="false" selection-start-line="74" selection-start-column="42" selection-end-line="74" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/page-objects/processPage.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="138" column="86" lean-forward="false" selection-start-line="138" selection-start-column="86" selection-end-line="138" selection-end-column="86" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/page-objects/usersPage.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
-          <caret line="16" column="76" lean-forward="true" selection-start-line="16" selection-start-column="76" selection-end-line="16" selection-end-column="76" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/reports/cucumber-report.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="155" column="21" lean-forward="false" selection-start-line="155" selection-start-column="21" selection-end-line="155" selection-end-column="21" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#a#0;n#h4#0;n#div#0;n#div#3;n#div#0;n#div#1;n#div#0;n#div#0;n#div#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#a#0;n#h4#0;n#div#0;n#div#3;n#div#0;n#div#1;n#div#0;n#div#0;n#div#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/selenium-cucumber-js/runtime/chromeDriver.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="16" column="14" lean-forward="false" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/page-objects/partnersPage.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
-          <caret line="16" column="77" lean-forward="false" selection-start-line="16" selection-start-column="77" selection-end-line="16" selection-end-column="77" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -719,7 +538,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="21">
           <caret line="1" column="7" lean-forward="true" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -727,14 +545,101 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="22" lean-forward="true" selection-start-line="0" selection-start-column="22" selection-end-line="0" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page-objects/partnersPage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="16" column="77" lean-forward="false" selection-start-line="16" selection-start-column="77" selection-end-line="16" selection-end-column="77" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/selenium-cucumber-js/node_modules/chromedriver/lib/chromedriver.js" />
+    <entry file="file://$PROJECT_DIR$/node_modules/selenium-cucumber-js/index.js" />
+    <entry file="file://$PROJECT_DIR$/node_modules/selenium-cucumber-js/runtime/world.js" />
+    <entry file="file://$PROJECT_DIR$/node_modules/selenium-cucumber-js/runtime/helpers.js" />
+    <entry file="file://$PROJECT_DIR$/step-definitions/partners-tab-steps.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="63" lean-forward="false" selection-start-line="9" selection-start-column="63" selection-end-line="9" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page-objects/processPage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="79">
+          <caret line="68" column="55" lean-forward="false" selection-start-line="68" selection-start-column="55" selection-end-line="68" selection-end-column="55" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/features/partners_test.feature">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="302">
-          <caret line="23" column="28" lean-forward="true" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="28" />
+        <state relative-caret-position="147">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page-objects/usersPage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="16" column="76" lean-forward="false" selection-start-line="16" selection-start-column="76" selection-end-line="16" selection-end-column="76" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/selenium-cucumber-js.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="18" lean-forward="false" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chromeDriver.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="20" column="1" lean-forward="false" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="52" lean-forward="false" selection-start-line="7" selection-start-column="52" selection-end-line="7" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/step-definitions/process-tab-steps.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="17" lean-forward="false" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reports/cucumber-report.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_prepare_for_headless.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/selenium-cucumber-js/runtime/chromeDriver.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>

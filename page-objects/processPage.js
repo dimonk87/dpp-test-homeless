@@ -67,9 +67,6 @@ module.exports = {
     descriptionForProcess: "This information about with this and this is very impotent",
 
     chooseDropDownOption: function (selector, option) {
-        // driver.wait(until.elementLocated(by.css(selector))).click().then(function () {
-        //     return driver.wait(until.elementLocated(by.css(option))).click();
-        // });
         helpers.clickHiddenElement(selector);
         return helpers.clickHiddenElement(option);
     },
