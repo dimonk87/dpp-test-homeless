@@ -8,7 +8,7 @@ Feature: Login page test
 
 
   Scenario: I see login page
-    Then I should see title "LOGIN TO YOUR ACCOUNT"
+    Then I should see title "Anmelden"
 
     @logAsAdmin @loginPage
   Scenario: Logged in successfull as admin
@@ -23,7 +23,7 @@ Feature: Login page test
   @loginPage
   Scenario: Check validation
     When I fill in fields with incorrect data
-    Then I shoul see an error message "Incorrect password or e-mail entered. Please try again."
+    Then I shoul see an error message "Falsche Zugangsdaten. Bitte erneut versuchen."
 
   @loginPage
   Scenario: Logged in successfull as manager
