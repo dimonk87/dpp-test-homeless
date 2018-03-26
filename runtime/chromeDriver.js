@@ -15,7 +15,7 @@ module.exports = function() {
         acceptSslCerts: true,
         chromeOptions: {
             //args: ['start-maximized']
-            args: ['headless']
+            args: ['headless', 'disable-gpu']
         },
         path: chromedriver.path
     }).build();
