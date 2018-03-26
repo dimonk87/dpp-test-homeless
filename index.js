@@ -28,7 +28,7 @@ var config = {
     sharedObjects: './shared-objects',
     reports: './reports',
     browser: 'chrome',
-    timeout: 25000
+    timeout: 60000
 };
 
 var configFileName = path.resolve(process.cwd(), 'selenium-cucumber-js.json');
